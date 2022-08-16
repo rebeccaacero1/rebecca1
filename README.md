@@ -18,3 +18,5 @@ This will look bold style text __Strong__
 <!--Horizontal rule-->
 Using triple hypens would will able to create horzontal rules to separate content
 ---
+Using triple hypens would will able to create horzontal rules to separate content
+___
