@@ -6,3 +6,7 @@
 ##### Heading 5
 ###### Heading 6
 demo-exercise1-markdown
+
+<--Italics-->
+_this paragraph is going to be italics using undersocres.
+*this paragraph is going to be italics using stars*
