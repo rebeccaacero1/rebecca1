@@ -29,3 +29,5 @@ This is an example of showing text with an *asterisk* that will not italized, ex
 <!--Creating lines using markdown-->
 **NOTE** The text that will go to the links should be in brackets and the lines in parenthesis
 [docker](https://docker.com/)
+**NOTE** If we want to add a title tooltip, add a space inside the parenthesis with qoutes to display a baloon tip
+[docker](https://docker.com/ *docker tool tip)
