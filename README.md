@@ -20,5 +20,5 @@ Using triple hypens would will able to create horzontal rules to separate conten
 ---
 Using triple hypens would will able to create horzontal rules to separate content
 ___
-<--Escape character using backslash-->
+<!--Escape character using backslash-->
 This is an example of showing text with an *asterisk* that will not italized, example \*asterisk*
