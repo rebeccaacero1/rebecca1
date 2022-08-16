@@ -22,3 +22,6 @@ Using triple hypens would will able to create horzontal rules to separate conten
 ___
 <!--Escape character using backslash-->
 This is an example of showing text with an *asterisk* that will not italized, example \*asterisk*
+---
+<--Block qoute-->
+>This is going to be displayed as a qoute with a background and line on the left side
