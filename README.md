@@ -31,3 +31,6 @@ This is an example of showing text with an *asterisk* that will not italized, ex
 [docker](https://docker.com/)
 **NOTE** If we want to add a title tooltip, add a space inside the parenthesis with qoutes to display a baloon tip.
 [docker](https://docker.com/ *docker tool tip*)
+---
+<!Image display-->
+![This is the image of a cat](https://www.pexels.com/photo/close-up-shot-of-brown-and-white-cat-10786822/)
