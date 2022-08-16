@@ -23,9 +23,9 @@ ___
 <!--Escape character using backslash-->
 This is an example of showing text with an *asterisk* that will not italized, example \*asterisk*
 ---
-<--Block qoute-->
+<!--Block qoute-->
 >This is going to be displayed as a qoute with a background and line on the left side
 ---
-<--Creating lines using markdown-->
+<!--Creating lines using markdown-->
 **NOTE** The text that will go to the links should be in brackets and the lines in parenthesis
 [docker](https://docker.com/)
